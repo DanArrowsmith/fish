@@ -6,12 +6,15 @@ Salesy bit of why someone would want to buy the fish to put in their aquarium, s
 
 Full Description
 <p>
-Maybe a fuller description about colouration, if males and females are different then say what the differences are.  
+Maybe a fuller description about colouration, 
+  </p><p>
 Maybe where it is originally from.
+   </p><p>
+  if males and females are different then say what the differences are.  
 Maybe if they are likely to breed in the aquarium.
+   </p><p>
 Any other general information about it.  So stuff like with the Boxfish if it gets stressed or dies it can release toxins that will kill everything in the tank including itself.  Or any tips for keeping them that don’t fit into one of the below sections.
 </p>
-However you can leave out the Scientific name, fish family name and other names it’s known by as those are in the quick facts bit.
 
 <h3>Tank Recommendations for (Fish you’re writing abouts name) </h3>
 <p>
@@ -24,7 +27,6 @@ If it needs a sand substrate to bury itself of look for food etc.
 
 Anything else that’s relevant to the actual aquarium set up.
 </p>
-You don’t need to put the water conditions in here though as they’re in the quick facts section
 
 <h3>Suitable Tank Buddies </h3>
 <p>
