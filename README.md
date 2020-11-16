@@ -57,11 +57,11 @@ Also how many times a day it should be fed etc
 Quick Stats
 Scientific Name: :- Centropyge bicolour
 Family    : Pomacanthidae
-Common Names: The Coral Beauty Angelfish, is also known as the Two Spined Angelfish and Dusky Angelfish.
+Common Names: The Coral Beauty Angelfish is also known as the Two Spined Angelfish and Dusky Angelfish.
 Origin: Indo-Pacific
 Sociability: Peaceful/Semi Aggressive/Aggressive
 Size: Maximum length of 6 inches
-Diet: Omnivore - Small meaty foods, sea vegetation, algae 
+Diet: OMNIVORE - Small meaty foods, sea vegetation, algae 
 Minimum Tank Size: In litres
 Care Level: Moderately Difficult
 Water Conditions: 22.8-27.8° C (73-82° F), dKH 8-12, pH 8.0-8.4, sg 1.023-1.025
